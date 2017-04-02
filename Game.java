@@ -33,6 +33,8 @@ public class Game {
     
     public static void main(String[] args) {
         Game game = new Game();
+        String str = Outside.out();
+        System.out.println(str);
     }   
 
 }
